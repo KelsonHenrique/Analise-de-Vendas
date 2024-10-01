@@ -14,21 +14,7 @@ Identificar produtos e mercados com potencial de crescimento: A partir da análi
 **Descrição:** A primeira etapa envolve coletar um conjunto de dados de vendas de e-commerce. Esses dados podem incluir informações sobre clientes, produtos, datas de compra, métodos de pagamento e localização geográfica das vendas.
 Fonte de Dados: Um arquivo CSV contendo informações históricas de vendas, que simula dados reais de uma loja de e-commerce.
 Ferramentas Utilizadas: Power BI e Excel (para limpeza de dados preliminar).
-Atividades:
-Importar dados para o Power BI.
-Limpeza de dados, remoção de valores nulos ou duplicados.
-Criação de tabelas e relacionamentos necessários no modelo de dados.
-Etapa 2: Análise Exploratória de Dados (EDA)
-Descrição: Nesta etapa, será realizada uma análise exploratória dos dados para entender melhor o comportamento das vendas.
-Atividades:
-Criação de gráficos de linha para observar o volume de vendas ao longo do tempo.
-Análise de vendas por categoria de produto.
-Identificação dos principais clientes por volume de compras.
-Análise de vendas por localização geográfica.
-Resultados Esperados:
-Gráficos que mostrem a evolução das vendas ao longo do tempo.
-Tabela dinâmica mostrando as categorias de produtos mais vendidas.
-Mapa interativo das vendas por região.
+
 
 ## Etapa 2: Desenvolvimento de Métricas de Performance
 **Descrição:** Criação de métricas e KPIs para mensurar o desempenho da loja de e-commerce.
