@@ -65,3 +65,28 @@ Integração de mapas, gráficos de barras, gráficos de linhas e painéis de KP
 Resultados Esperados:
 Dashboard completo no Power BI que pode ser utilizado para tomada de decisões.
 Inclusão de recursos de drill-down para detalhar análises conforme necessário.
+
+## Resultados
+**- Análise Exploratória dos Dados**
+- Base de Dados
+![image](https://github.com/user-attachments/assets/3456ce16-d8ef-40de-9f66-6bc8cbf28472)
+
+- Desempenho das Vendas no trimestre
+![image](https://github.com/user-attachments/assets/570efe28-a1dc-4381-95e8-7312c961ab10)
+
+- No gráfico abaixo, podemos observar os produtos mais vendidos pela loja
+
+![image](https://github.com/user-attachments/assets/0a719610-082a-4feb-9bc3-10e6e77ab5ca)
+
+- Nas vendas vendas por Categoria nota-se uma diversificação
+
+![image](https://github.com/user-attachments/assets/3c8b6878-e0ad-41d9-bdf8-28d257a32e8e)
+
+- A região Sudeste sai ligeiramente na frente como região responsável pelo maior volume de vendas
+
+![image](https://github.com/user-attachments/assets/6a3f36ee-822e-4ba0-ad73-f994f3f12607)
+
+
+
+
+
