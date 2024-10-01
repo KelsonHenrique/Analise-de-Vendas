@@ -69,9 +69,13 @@ Inclusão de recursos de drill-down para detalhar análises conforme necessário
 ## Resultados
 **- Análise Exploratória dos Dados**
 - Base de Dados
+
+
 ![image](https://github.com/user-attachments/assets/3456ce16-d8ef-40de-9f66-6bc8cbf28472)
 
 - Desempenho das Vendas no trimestre
+
+  
 ![image](https://github.com/user-attachments/assets/570efe28-a1dc-4381-95e8-7312c961ab10)
 
 - No gráfico abaixo, podemos observar os produtos mais vendidos pela loja
